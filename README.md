@@ -1,7 +1,10 @@
 ## Hi friends!
 
 I am a software engineer who loves to continue to learn and grow 🌱
+
 If I am not behind my computer, find me outside looking at birds and wildflowers
+![image](https://media.giphy.com/media/uSq127Uq8aGoJ4Mnvv/giphy.gif)
+
 
 ### Connect With Me
 [![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][1]
