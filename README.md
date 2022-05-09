@@ -29,3 +29,4 @@ App using Ebird's API to find rare birds in your area
 ![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 
 [1]: https://www.linkedin.com/in/lindsey-dukles-3538a687/
+[2]: lindseydukles@gmail.com
