@@ -11,7 +11,7 @@ If I am not behind my computer, find me outside looking at birds and wildflowers
 
 
 ### Projects I am excited about creating:
-App using Ebird's API to find rare birds in your area
+Working with a group of people to create a job application tracking App!
 
 
 
