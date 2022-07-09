@@ -11,7 +11,7 @@ If I am not behind my computer, find me outside looking at birds and wildflowers
 
 
 ### Projects I am excited about creating:
-Working on a collabrative project to create a job application tracking App!
+Creating a wildflower sighting django app!
 
 
 
