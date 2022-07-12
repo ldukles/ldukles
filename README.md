@@ -11,7 +11,7 @@ If I am not behind my computer, find me outside looking at birds and wildflowers
 
 
 ### Projects I am excited about creating:
-Creating a wildflower sighting django app!
+Creating a full CRUD Django application that allows users to upload natural history sightings.
 
 
 
