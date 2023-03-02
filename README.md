@@ -33,7 +33,7 @@ Learning Gatsby!
 ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
 
 #### Learning
-![r](https://img.shields.io/badge/-%236633.svg?style=for-the-badge&logo=r&logoColor=blue)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 
 [1]: https://www.linkedin.com/in/lindsey-dukles-3538a687/
