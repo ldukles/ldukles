@@ -10,8 +10,8 @@ If I am not behind my computer, find me outside looking at birds and wildflowers
 [![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][1]
 
 
-### Projects I am excited about creating:
-Learning Gatsby!
+### Projects I am excited about:
+Learning R and utilizing python for data analysis :)
 
 
 
