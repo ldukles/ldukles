@@ -1,6 +1,6 @@
 ## Hi friends!
 
-I am a software engineer who loves to continue to learn and grow 🌱
+I'm a software engineer who loves to continue to learn and grow 🌱
 
 If I am not behind my computer, find me outside looking at birds and wildflowers
 ![image](https://media.giphy.com/media/uSq127Uq8aGoJ4Mnvv/giphy.gif)
