@@ -2,6 +2,8 @@
 
 I'm a software engineer who loves to continue to learn and grow 🌱
 
+Currently working within the field of Climate Tech I love to build and create tangible products for the greater good
+
 If I am not behind my computer, find me outside looking at birds and wildflowers
 ![image](https://media.giphy.com/media/uSq127Uq8aGoJ4Mnvv/giphy.gif)
 
@@ -11,7 +13,7 @@ If I am not behind my computer, find me outside looking at birds and wildflowers
 
 
 ### Projects I am excited about:
-Learning R and utilizing python for data analysis :)
+Working with AWS and learning all about the deeper offerings
 
 
 
@@ -32,8 +34,6 @@ Learning R and utilizing python for data analysis :)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-
-#### Learning
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
@@ -43,6 +43,10 @@ Learning R and utilizing python for data analysis :)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
+
+#### Learning
+
 
 [1]: https://www.linkedin.com/in/lindsey-dukles-3538a687/
 [2]: lindseydukles@gmail.com
