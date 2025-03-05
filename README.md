@@ -10,7 +10,8 @@ If I am not behind my computer, find me outside looking at birds and wildflowers
 
 ### Connect With Me
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][1]
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](2)
+[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](3)
 
 ### Projects I am excited about:
 Working with AWS and learning all about the deeper offerings
@@ -51,3 +52,4 @@ Working with AWS and learning all about the deeper offerings
 
 [1]: https://www.linkedin.com/in/lindsey-dukles-3538a687/
 [2]: lindseydukles@gmail.com
+[3]: https://lindsey-dukles-portfolio.netlify.app/
