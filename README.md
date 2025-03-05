@@ -12,7 +12,7 @@ When I'm not behind my computer, you can find me outside looking at birds and wi
 
 ### Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lindsey-dukles-3538a687/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:lindseydukles@gmail.com)[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://lindsey-dukles-portfolio.netlify.app/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/lindsey-dukles-3538a687/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:lindseydukles@gmail.com)[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://lindsey-dukles-portfolio.netlify.app/)
 
 ---
 
