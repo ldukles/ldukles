@@ -18,7 +18,7 @@ When I'm not behind my computer, you can find me outside looking at birds and wi
 
 ### Projects I am excited about:
 
-- Working with **AWS** and learning all about its deeper offerings.
+- Processing raw sensor data for real-time measurements of the carbon cycle in water
 
 ---
 
