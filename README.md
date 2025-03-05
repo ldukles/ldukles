@@ -33,3 +33,20 @@ Working with AWS and learning all about the deeper offerings
     <p>![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)</p>
   </div>
 
+  <div style="flex: 1; min-width: 250px;">
+    <h4>Other Tools & Frameworks</h4>
+    <p>![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</p>
+    <p>![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</p>
+    <p>![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)</p>
+    <p>![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)</p>
+  </div>
+</div>
+
+#### Learning
+- AWS
+- Kubernetes
+- More about Cloud-based tools and practices
+
+[1]: https://www.linkedin.com/in/lindsey-dukles-3538a687/
+[2]: lindseydukles@gmail.com
+[3]: https://lindsey-dukles-portfolio.netlify.app/
