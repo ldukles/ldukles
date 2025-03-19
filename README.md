@@ -1,6 +1,6 @@
 ## Hi friends! 
 
-I'm a software engineer who loves to continue learning and growing 🌱
+I'm a software engineer who loves to learn and grow 🌱
 
 Currently working within the field of Climate Tech, I love building and creating tangible products for the greater good.
 
